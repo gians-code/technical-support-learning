@@ -2,7 +2,7 @@
 
 My journey from IT Support to Technical Support Engineering.
 
-##Goals
+## Goals
 
 -Improve my Python skills
 -Learn Git and GitHub
@@ -12,9 +12,9 @@ My journey from IT Support to Technical Support Engineering.
 -Build technical support projects
 -Prepare for international remote opportunities
 
-##Progress
+## Progress
 
-##September 2026
+## September 2026
 
 -[X] GitHub Skills: Introduction to GitHub
 -[ ] Python Fundamentals
